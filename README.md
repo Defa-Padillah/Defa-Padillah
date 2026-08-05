@@ -30,12 +30,13 @@
 
 ## 📌 About Me
 
-Senior Software Engineer with extensive expertise in architecting high-throughput distributed systems, enterprise generative AI pipelines, and production-grade full-stack platforms. Demonstrates a strong product engineering mindset focused on delivering resilient, high-performance software with measurable business impact.
+Information Technology undergraduate passionate about Software Engineering, Web Development, and Artificial Intelligence. Focused on designing scalable applications, learning modern software architecture, and building real-world solutions that solve meaningful problems. Currently developing JULIET – Personal AI Operating System (PAOS) while continuously strengthening skills in backend development, frontend engineering, Linux, networking, and cloud-native technologies.
 
-- 🧠 **AI/ML Infrastructure:** Specialist in LLM fine-tuning, RAG architecture, retrieval systems, and scalable vector search pipelines.
-- ⚙️ **Software Engineering & Architecture:** Deep domain mastery in Microservices, Event-Driven Architectures, and Concurrent Systems.
-- 💻 **Full Stack Capabilities:** Modern React/Next.js frontend systems backed by high-concurrency Go, Python, and Rust services.
-- 🎯 **Product & Business Focus:** Track record of driving systems from zero-to-one and optimizing for sub-50ms latencies at enterprise scale.
+- 🧠 **Artificial Intelligence & Automation:** Learning Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, prompt engineering, and intelligent workflow automation..
+- ⚙️ **Software Engineering:** Building a strong foundation in clean architecture, RESTful APIs, database design, version control, Docker, and modern software development practices.
+- 💻 **Web Development:** Developing responsive web applications using HTML, CSS, JavaScript, PHP, Python, MySQL, while expanding expertise in React, Next.js, FastAPI, and modern full-stack technologies.
+- 🌐 **Infrastructure & Networking:** Experienced with Linux administration, Docker containers, MikroTik, Cisco networking, and server deployment while continuously exploring DevOps and cloud technologies.
+- 🎯 **Career Objective:** Committed to becoming a professional Software Engineer by continuously building impactful projects, mastering modern technologies, and delivering reliable, scalable, and user-focused software..
 
 ### 💼 Open To
 `Staff / Senior AI Systems Engineer` | `Lead Distributed Systems Architect` | `Principal Full-Stack Engineer`
