@@ -1,4 +1,4 @@
-<p align="center">
+readme_customized = """<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7z00ff&height=200&section=header&text=AI%20%26%20Software%20Engineer&fontsize=40&fontColor=ffffff&animation=twinkle" width="100%" />
 </p>
 
@@ -14,16 +14,16 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:engineer@domain.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.portfolio.dev/u/depaallh"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/defa-padillah-140a0a356"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:defapadillah.dp@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/depaallh"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/username?label=Followers&style=flat-square&color=6d28d9" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/username?style=flat-square&color=581c87" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=depaallh&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/depaallh?label=Followers&style=flat-square&color=6d28d9" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/depaallh?style=flat-square&color=581c87" alt="Stars" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ An enterprise-grade retrieval-augmented generation engine capable of ingesting m
 
 | Vector Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Qdrant, vLLM, FastAPI, Redis | 10M+ Vector Embeddings | < 45ms P99 Latency | SOC2 compliant RBAC & AES-256 | Reduced enterprise query time by 78% | [GitHub Repo](https://github.com/Defa-Padillah/enterprise-rag) |
+| Python, Qdrant, vLLM, FastAPI, Redis | 10M+ Vector Embeddings | < 45ms P99 Latency | SOC2 compliant RBAC & AES-256 | Reduced enterprise query time by 78% | [GitHub Repo](https://github.com/depaallh/enterprise-rag) |
 
 **Key Highlights:**
 - Implemented hybrid BM25 + dense vector ranking algorithm with custom cross-encoder reranking.
@@ -98,7 +98,7 @@ High-throughput, event-driven streaming processing platform designed to handle r
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Go, Apache Kafka, Rust, ClickHouse | 500k events/sec | < 12ms end-to-end | TLS 1.3 mTLS Endpoint Auth | Zero dropped events at peak load | [GitHub Repo](https://github.com/Defa-Padillah/stream-processor) |
+| Go, Apache Kafka, Rust, ClickHouse | 500k events/sec | < 12ms end-to-end | TLS 1.3 mTLS Endpoint Auth | Zero dropped events at peak load | [GitHub Repo](https://github.com/depaallh/stream-processor) |
 
 **Key Highlights:**
 - Built using Go microservices and Rust native bindings for memory-safe state parsing.
@@ -115,7 +115,7 @@ CI/CD integrated agentic platform analyzing pull requests for static security vu
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| TypeScript, Next.js, Python, OpenAI API | 100+ Repositories | < 2 min PR Scan | Zero data retention configuration | Cut code review turnaround by 65% | [GitHub Repo](https://github.com/Defa-Padillah/ai-code-reviewer) |
+| TypeScript, Next.js, Python, OpenAI API | 100+ Repositories | < 2 min PR Scan | Zero data retention configuration | Cut code review turnaround by 65% | [GitHub Repo](https://github.com/depaallh/ai-code-reviewer) |
 
 **Key Highlights:**
 - Leverages AST parsing combined with LLM function-calling to detect OWASP Top 10 vulnerabilities.
@@ -179,10 +179,10 @@ CI/CD integrated agentic platform analyzing pull requests for static security vu
 ## 🧩 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/username"><img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%202100%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://geeksforgeeks.org/user/username"><img src="https://img.shields.io/badge/GeeksforGeeks-Top%201%25%20Rank-2F9D27?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://hackerrank.com/username"><img src="https://img.shields.io/badge/HackerRank-5%20★%20Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-  <a href="https://codechef.com/users/username"><img src="https://img.shields.io/badge/CodeChef-5%20★%20Competitive%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/depaallh"><img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%202100%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://geeksforgeeks.org/user/depaallh"><img src="https://img.shields.io/badge/GeeksforGeeks-Top%201%25%20Rank-2F9D27?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://hackerrank.com/depaallh"><img src="https://img.shields.io/badge/HackerRank-5%20★%20Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+  <a href="https://codechef.com/users/depaallh"><img src="https://img.shields.io/badge/CodeChef-5%20★%20Competitive%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
@@ -190,12 +190,12 @@ CI/CD integrated agentic platform analyzing pull requests for static security vu
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=synthwave&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=depaallh&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=depaallh&theme=synthwave&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=depaallh&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="60%" />
 </p>
 
 ---
@@ -203,7 +203,7 @@ CI/CD integrated agentic platform analyzing pull requests for static security vu
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=username&theme=synthwave&no-frame=true&no-background=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=depaallh&theme=synthwave&no-frame=true&no-background=true&margin-w=15" />
 </p>
 
 ---
@@ -211,7 +211,7 @@ CI/CD integrated agentic platform analyzing pull requests for static security vu
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=depaallh&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -219,7 +219,7 @@ CI/CD integrated agentic platform analyzing pull requests for static security vu
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/depaallh/depaallh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
