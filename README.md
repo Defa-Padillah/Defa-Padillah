@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7z00ff&height=200&section=header&text=Junior%20Developer%20%26%20Network%20Engineer&fontsize=40&fontColor=ffffff&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7z00ff&height=200&section=header&text=Junior%20Developer%20%26%20Frontend%20Developer&fontsize=40&fontColor=ffffff&animation=twinkle" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vcenter=true&width=600&lines=Junior+Backend+%26+Network+Engineer;Mahasiswa+IT+Bina+Sarana+Informatika;Automasi+Infrastruktur+Python;Membangun+Sistem+yang+Efisien" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vcenter=true&width=600&lines=Junior+Backend+%26+Frontend+Developer;Mahasiswa+IT+Bina+Sarana+Informatika;Automasi+Infrastruktur+Python;Membangun+Sistem+yang+Efisien" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,17 +29,20 @@
 
 ## 📌 Tentang Saya
 
-Halo, saya Defa Padillah[cite: 1]. Saat ini saya adalah mahasiswa semester 6 jurusan Teknologi Informasi di Universitas Bina Sarana Informatika[cite: 8]. Saya memiliki minat mendalam pada *Software Engineering*, arsitektur *backend*, dan infrastruktur jaringan. 
+Halo, saya Defa Padillah. Saat ini saya adalah mahasiswa semester 6 jurusan Teknologi Informasi di Universitas Bina Sarana Informatika. Saya memiliki minat mendalam pada *Frontend dan Backend Developer*, serta memiliki minat tambahan pada *arsitektur sistem dan infrastruktur jaringan*." 
 
-Berbekal etos kerja yang kuat dari pengalaman profesional sebelumnya, saya memfokuskan diri pada perancangan jaringan yang aman, otomatisasi infrastruktur menggunakan Python[cite: 8], serta pengembangan solusi digital yang nyata.
+Berbekal etos kerja yang kuat dari pengalaman profesional sebelumnya, saya memfokuskan diri pada perancangan jaringan yang aman, otomatisasi infrastruktur menggunakan Python, serta pengembangan solusi digital yang nyata.
 
-- ⚙️ **Pengembangan Perangkat Lunak:** Membangun fondasi yang kuat dalam Pemrograman Berorientasi Objek (OOP), struktur data, dan arsitektur *multi-module* menggunakan Python 3[cite: 8, 9].
-- 🌐 **Infrastruktur & Jaringan:** Tersertifikasi resmi dalam pengelolaan perangkat MikroTik dan Cisco[cite: 3, 4]. Berpengalaman merancang pengalamatan jaringan, instalasi nirkabel, dan konfigurasi *routing* sistem otonom[cite: 5].
-- 🛡️ **Keamanan Sistem:** Terlatih dalam perencanaan pemulihan jaringan (*network recovery*), pemantauan log keamanan, dan implementasi kebijakan kontrol akses[cite: 5].
-- 🎯 **Fokus Karier:** Berkomitmen menjadi *Junior Developer* / *Network Engineer* yang andal dengan terus mengikuti perkembangan teknologi modern.
+- ⚙️ **Pengembangan Perangkat Lunak :** Membangun fondasi yang kuat dalam Pemrograman Berorientasi Objek (OOP), struktur data, dan arsitektur *multi-module* menggunakan Python 3.
+  
+- 🌐 **Infrastruktur & Jaringan :** Tersertifikasi resmi dalam pengelolaan perangkat MikroTik dan Cisco. Berpengalaman merancang pengalamatan jaringan, instalasi nirkabel, dan konfigurasi *routing* sistem otonom.
+  
+- 🛡️ **Keamanan Sistem :** Terlatih dalam perencanaan pemulihan jaringan (*network recovery*), pemantauan log keamanan, dan implementasi kebijakan kontrol akses.
+  
+- 🎯 **Fokus Karier :** Berkomitmen menjadi *Junior Developer* / *Network Engineer* yang andal dengan terus mengikuti perkembangan teknologi modern.
 
 ### 💼 Terbuka Untuk Peran
-`Junior Backend Developer` | `Network Automation Engineer` | `IT Support / Infrastructure Specialist`
+`Junior Frontend Developer` | `Junior Backend Developer` | `IT & Network Support`
 
 ---
 
@@ -60,36 +63,52 @@ Berbekal etos kerja yang kuat dari pengalaman profesional sebelumnya, saya memfo
 
 ---
 
-## 🔬 Keahlian Infrastruktur & Backend
+## 🔬 Keahlian Pengembangan Web (Frontend & Backend)
 
 | Domain | Tingkat | Detail & Integrasi Sistem |
 | :--- | :---: | :--- |
-| **Otomatisasi Jaringan** | Menengah | Skrip Python untuk konfigurasi *router* dan *backup* perangkat otomatis |
-| **Desain Infrastruktur** | Menengah | Segmentasi VLAN, *Subnetting*, Konfigurasi *Routing Autonomous System* |
-| **Pemrograman OOP** | Menengah | Enkapsulasi, Polimorfisme, dan pengembangan program *multi-module* Python 3 |
-| **Keamanan Jaringan** | Menengah | Pemantauan anomali jaringan, kebijakan *firewall*, pengaturan akun pengguna |
+| **Backend Development** | Menengah | Pengembangan logika *server*, perancangan REST API, dan integrasi *database* menggunakan Python |
+| **Frontend Development** | Dasar-Menengah | Pembuatan antarmuka web interaktif dan responsif menggunakan HTML, CSS, dan JavaScript |
+| **Pemrograman OOP** | Menengah | Implementasi kelas, enkapsulasi, dan arsitektur *multi-module* menggunakan Python 3 |
+| **Manajemen Basis Data** | Dasar-Menengah | Perancangan skema relasional, manipulasi data dengan SQL, dan pemeliharaan *database* lokal |
 
 ---
 
-## ⚡ Proyek Unggulan (Eksplorasi)
+## ⚡ Proyek Unggulan
 
 <details>
-<summary><b>🚀 PyNet-Automator — Otomatisasi Konfigurasi Jaringan</b></summary>
+<summary><b>🚧 [ONGOING] TaskFlow — Aplikasi Manajemen Tugas & Produktivitas</b></summary>
 
 <br />
 
-Alat penyediaan (*provisioning tool*) otomatis yang dirancang untuk mengonfigurasi, mencadangkan, dan memantau perangkat jaringan lintas vendor menggunakan skrip Python.
+Aplikasi *full-stack* berbasis web untuk mengelola tugas harian, berfokus pada efisiensi pengolahan data di sisi *server* dan antarmuka pengguna yang bersih dan intuitif.
 
-| Teknologi | Skala | Performa | Keamanan | Dampak | Repositori |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python 3, API MikroTik | 15+ Titik Jaringan | < 2 detik per konfigurasi | Kredensial Terenkripsi | Mengurangi waktu konfigurasi manual hingga 85% | [Repo GitHub](#) |
+| Teknologi | Peran | Status | Fokus Integrasi | Repositori |
+| :--- | :--- | :--- | :--- | :--- |
+| Python, SQLite, HTML/CSS/JS | Backend & Frontend | Sedang Berjalan | REST API, Autentikasi Data | [Segera Hadir](#) |
 
 **Sorotan Utama:**
-- Memanfaatkan konsep Pemrograman Berorientasi Objek (OOP)[cite: 8] untuk membuat kelas modular dalam mengelola perangkat.
-- Mengimplementasikan skrip konfigurasi *routing autonomous system*[cite: 5] guna meminimalisir kesalahan (*human error*).
+- Membangun arsitektur *backend* yang tangguh dengan menerapkan fondasi algoritma dan *Object-Oriented Programming* (OOP) di Python 3.
+- Merancang antarmuka *frontend* yang responsif dan menghubungkannya dengan *database* relasional.
 
 </details>
 
+<details>
+<summary><b>🚧 [ONGOING] NetDash — Dashboard Pemantauan Jaringan Berbasis Web</b></summary>
+
+<br />
+
+Sistem panel web (*dashboard*) untuk memvisualisasikan status perangkat keras dan log jaringan, proyek ini menjembatani kemampuan *web development* dengan pemahaman arsitektur jaringan komputer.
+
+| Teknologi | Peran | Status | Fokus Integrasi | Repositori |
+| :--- | :--- | :--- | :--- | :--- |
+| Python, JavaScript, SQL | Full-Stack | Perencanaan Arsitektur | *Parsing* Data Log, UI Dinamis | [Segera Hadir](#) |
+
+**Sorotan Utama:**
+- Memanfaatkan keahlian arsitektur Python *multi-module* untuk memproses dan menganalisis pengaturan akun serta log keamanan jaringan.
+- Menghubungkan *backend* pemrosesan data dengan *frontend* interaktif agar mudah dipantau melalui *web browser*.
+
+</details>
 <details>
 <summary><b>🛡️ Secure-Flow — Analisis Log Lalu Lintas Jaringan</b></summary>
 
@@ -140,12 +159,12 @@ Aplikasi utilitas *backend* yang dibangun untuk menyerap, mengurai, dan menganal
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Defa-Padillah&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
+  <img src="https://-readme-stats.vercel.app/api?username=Defa Padillah&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Defa-Padillah&theme=synthwave&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defa-Padillah&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defa Padillah&layout=compact&theme=synthwave&hide_border=true&langs_count=8" width="60%" />
 </p>
 
 ---
